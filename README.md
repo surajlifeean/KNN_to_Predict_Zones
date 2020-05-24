@@ -1,4 +1,4 @@
-# KNN_to_Predict_Zones
+# Classifier to Predict Covid19 Zones
 The repository has python code to predict if any area falls under red, green or orange zone based on the last recorded case and current case count.
 
 Classification is the process of grouping your data into different classes. Currently to classify the districts into Red, Green and Orange Covid19 zones in India authorities of states and center looks into current case count and the last recorded case duration to mark these zones. 
